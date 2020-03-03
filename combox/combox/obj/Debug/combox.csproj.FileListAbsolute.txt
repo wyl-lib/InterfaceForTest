@@ -1,0 +1,14 @@
+D:\3Laborary实验室\实验室管理系统\test\combox\combox\bin\Debug\combox.exe.config
+D:\3Laborary实验室\实验室管理系统\test\combox\combox\bin\Debug\combox.exe
+D:\3Laborary实验室\实验室管理系统\test\combox\combox\bin\Debug\combox.pdb
+D:\3Laborary实验室\实验室管理系统\test\combox\combox\obj\Debug\MainWindow.g.cs
+D:\3Laborary实验室\实验室管理系统\test\combox\combox\obj\Debug\App.g.cs
+D:\3Laborary实验室\实验室管理系统\test\combox\combox\obj\Debug\combox_MarkupCompile.cache
+D:\3Laborary实验室\实验室管理系统\test\combox\combox\obj\Debug\combox_MarkupCompile.lref
+D:\3Laborary实验室\实验室管理系统\test\combox\combox\obj\Debug\MainWindow.baml
+D:\3Laborary实验室\实验室管理系统\test\combox\combox\obj\Debug\combox.g.resources
+D:\3Laborary实验室\实验室管理系统\test\combox\combox\obj\Debug\combox.Properties.Resources.resources
+D:\3Laborary实验室\实验室管理系统\test\combox\combox\obj\Debug\combox.csproj.GenerateResource.cache
+D:\3Laborary实验室\实验室管理系统\test\combox\combox\obj\Debug\combox.csproj.CoreCompileInputs.cache
+D:\3Laborary实验室\实验室管理系统\test\combox\combox\obj\Debug\combox.exe
+D:\3Laborary实验室\实验室管理系统\test\combox\combox\obj\Debug\combox.pdb
